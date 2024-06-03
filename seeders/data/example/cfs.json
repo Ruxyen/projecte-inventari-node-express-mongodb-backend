@@ -1,0 +1,96 @@
+{
+    "cfs" : [
+        {  
+            "name": "Gestió administrativa",
+            "code": " AG10",
+            "grade": "GM",   
+            "hours": 2000,
+            "isDUAL": true,
+            "family": null,
+            "career_opportunities": ["auxiliar administratiu o administrativa","ajudant o ajudanta d'oficina","auxiliar administratiu o administrativa de cobraments i pagaments, de gestió de personal"],
+            "info_modules": [
+                {"number": 1, "name" :"Comunicació empresarial i atenció al client", "hours":165},
+                {"number": 2, "name" :"Operacions administratives de compravenda", "hours":132},
+                {"number": 3, "name" :"Operacions administratives de recursos humans", "hours":99},
+                {"number": 4, "name" :"Operacions auxiliars de gestió de tresoreria", "hours":132},
+                {"number": 5, "name" :"Tècnica comptable", "hours":132},
+                {"number": 6, "name" :"Tractament de la documentació comptable", "hours":132}
+            ]
+        },
+        {  
+            "name": "Administració i finances",
+            "code": " AGB0",
+            "grade": "GS",   
+            "hours": 2000,
+            "isDUAL": true,
+            "family": null,
+            "career_opportunities": ["administratiu o administrativa d'oficina","administratiu o administrativa comercial","administratiu financer o administrativa financera","administratiu o administrativa comptable"],
+            "info_modules": [
+                {"number": 1, "name" :"Comunicació i atenció al client", "hours":165},
+                {"number": 2, "name" :"Gestió de la documentació jurídica i empresarial", "hours":132},
+                {"number": 3, "name" :"Procés integral de l’activitat comercial", "hours":99},
+                {"number": 4, "name" :"Recursos humans i responsabilitat social corporativa", "hours":132},
+                {"number": 5, "name" :"Ofimàtica i procés de la informació", "hours":132},
+                {"number": 6, "name" :"Anglès", "hours":132}
+            ]
+        },
+        {  
+            "name": "Desenvolupament d'aplicacions web",
+            "code": "C01",
+            "grade": "GS",   
+            "hours": 2000,
+            "isDUAL": true,
+            "family": null,
+            "career_opportunities": ["Programador/a web","Programador/a multimèdia","Desenvolupador/a d’aplicacions en entorns web"],
+            "info_modules": [
+                {"number": 1, "name" :"Sistemes informàtics", "hours":165},
+                {"number": 2, "name" :"Bases de dades", "hours":132},
+                {"number": 3, "name" :"Programació", "hours":99},
+                {"number": 4, "name" :"Llenguatges de marques i sistemes de gestió d’informació", "hours":132},
+                {"number": 5, "name" :"Entorns de desenvolupament", "hours":132},
+                {"number": 6, "name" :"Desenvolupament web en entorn client", "hours":132},
+                {"number": 7, "name" :"Desenvolupament web en entorn servidor", "hours":132}                
+            ]
+        },
+        {  
+            "name": "Desenvolupament d'aplicacion multiplataforma",
+            "code": "C02",
+            "grade": "GS",   
+            "hours": 2000,
+            "isDUAL": true,
+            "family": null,
+            "career_opportunities": [" desenvolupament d’aplicacions informàtiques per a la gestió empresarial i de negocis","desenvolupament d’aplicacions informàtiques de propòsit general i en l’àmbit de l’entreteniment i de l’informàtica mòbil"],
+            "info_modules": [
+                {"number": 1, "name" :"Sistemes informàtics", "hours":165},
+                {"number": 2, "name" :"Bases de dades", "hours":132},
+                {"number": 3, "name" :"Programació", "hours":99},
+                {"number": 4, "name" :"Llenguatges de marques i sistemes de gestió d’informació", "hours":132},
+                {"number": 5, "name" :"Entorns de desenvolupament", "hours":132},
+                {"number": 6, "name" :"Accés a dades", "hours":132},
+                {"number": 7, "name" :"Desenvolupament d’interfícies", "hours":132}
+            ]
+        },
+        {  
+            "name": "Administració de sistemes informàtics i en xarxa",
+            "code": "C03",
+            "grade": "GS",   
+            "hours": 2000,
+            "isDUAL": true,
+            "family": null,
+            "career_opportunities": ["auxiliar administratiu o administrativa","ajudant o ajudanta d'oficina"," auxiliar administratiu o administrativa de cobraments i pagaments, de gestió de personal"],
+            "info_modules": [
+                {"number": 1, "name" :"Sistemes informàtics", "hours":165},
+                {"number": 2, "name" :"Bases de dades", "hours":132},
+                {"number": 3, "name" :"Programació", "hours":99},
+                {"number": 4, "name" :"Llenguatges de marques i sistemes de gestió d’informació", "hours":132},
+                {"number": 5, "name" :"Fonaments de maquinari", "hours":132},
+                {"number": 6, "name" :"Administració de Sistemes Operatius", "hours":132},
+                {"number": 7, "name" :"Planificació i administració de xarxes", "hours":132},
+                {"number": 8, "name" :"Serveis de xarxa i Internet", "hours":132}
+            ]
+        }      
+  
+  ]
+  }
+
+  
